@@ -766,6 +766,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ThreeCarWheel
       objectReference: {fileID: 0}
+    - target: {fileID: 8693204992530514117, guid: 61a972fef41f1054d8c7daa01e58f230, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 8020b680936e96d47a0af7066a045d0a, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1996,6 +2000,67 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1069033933}
   m_Mesh: {fileID: 5693571945802153140, guid: 442cba3ee5c7dad40992407e63865f35, type: 3}
+--- !u!1001 &1274909720
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 48cec688a353d574b977928542725b7f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 12.29
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 48cec688a353d574b977928542725b7f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.292
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 48cec688a353d574b977928542725b7f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -11.5
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 48cec688a353d574b977928542725b7f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.8969199
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 48cec688a353d574b977928542725b7f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 48cec688a353d574b977928542725b7f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.44219318
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 48cec688a353d574b977928542725b7f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 48cec688a353d574b977928542725b7f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 48cec688a353d574b977928542725b7f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -52.488
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 48cec688a353d574b977928542725b7f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 48cec688a353d574b977928542725b7f, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 1b1543f90099163459c389744a89890f, type: 2}
+    - target: {fileID: 919132149155446097, guid: 48cec688a353d574b977928542725b7f, type: 3}
+      propertyPath: m_Name
+      value: Monkey
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 48cec688a353d574b977928542725b7f, type: 3}
 --- !u!1 &1507907485
 GameObject:
   m_ObjectHideFlags: 0
@@ -2913,3 +2978,4 @@ SceneRoots:
   - {fileID: 122281181}
   - {fileID: 222508838}
   - {fileID: 446069370}
+  - {fileID: 1274909720}

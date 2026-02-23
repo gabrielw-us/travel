@@ -153,7 +153,7 @@ Material:
     - _StrokeScale: 2.28
     - _Surface: 0
     - _UseBlendingNoise: 1
-    - _UserVertexColor: 1
+    - _UserVertexColor: 0
     - _Variation: 0
     - _WorkflowMode: 1
     - _ZWrite: 1
