@@ -1,0 +1,3679 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Ka Humanoid
+  m_TargetType:
+    m_NativeTypeID: 1041
+    m_ManagedTypePPtr: {fileID: 0}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_ExternalObjects.Array.size
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_ExternalObjects.Array.data[0].first.type
+    value: UnityEngine:Material
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_ExternalObjects.Array.data[0].first.assembly
+    value: UnityEngine.CoreModule
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_ExternalObjects.Array.data[0].first.name
+    value: VertexColor
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_ExternalObjects.Array.data[0].second
+    value: 
+    objectReference: {fileID: 2100000, guid: c7ff5e7d2266f494ab98c4be0ed14d9e, type: 2}
+  - target: {fileID: 0}
+    propertyPath: m_MaterialImportMode
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_MaterialName
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_MaterialSearch
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_MaterialLocation
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LegacyGenerateAnimations
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_BakeSimulation
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_ResampleCurves
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_OptimizeGameObjects
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_RemoveConstantScaleCurves
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_MotionNodeName
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_RigImportErrors
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_RigImportWarnings
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimationImportErrors
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimationImportWarnings
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimationRetargetingWarnings
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimationDoRetargetingWarnings
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_ImportAnimatedCustomProperties
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_ImportConstraints
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimationCompression
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimationRotationError
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimationPositionError
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimationScaleError
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimationWrapMode
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_ExtraExposedTransformPaths.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_ExtraUserProperties.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_ClipAnimations.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_IsReadable
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LODScreenPercentages.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_GlobalScale
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_MeshCompression
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AddColliders
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_UseSRGBMaterialColor
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SortHierarchyByName
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_ImportPhysicalCameras
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_ImportVisibility
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_ImportBlendShapes
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_ImportCameras
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_ImportLights
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_NodeNameCollisionStrategy
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: swapUVChannels
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: generateSecondaryUV
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_UseFileUnits
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: keepQuads
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: weldVertices
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: bakeAxisConversion
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PreserveHierarchy
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: skinWeightsMode
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: maxBonesPerVertex
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: minBoneWeight
+    value: 0.001
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: optimizeBones
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: meshOptimizationFlags
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: indexFormat
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: secondaryUVAngleDistortion
+    value: 8
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: secondaryUVAreaDistortion
+    value: 15.000001
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: secondaryUVHardAngle
+    value: 88
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: secondaryUVMarginMethod
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: secondaryUVMinLightmapResolution
+    value: 40
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: secondaryUVMinObjectScale
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: secondaryUVPackMargin
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_UseFileScale
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_StrictVertexDataChecks
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: normalSmoothAngle
+    value: 60
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: normalImportMode
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: tangentImportMode
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: normalCalculationMode
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: blendShapeNormalImportMode
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: normalSmoothingSource
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_ReferencedClips.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_ImportAnimation
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.size
+    value: 23
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[0].m_BoneName
+    value: Hips
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[0].m_HumanName
+    value: Hips
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[0].m_Limit.m_Min.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[0].m_Limit.m_Min.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[0].m_Limit.m_Min.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[0].m_Limit.m_Max.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[0].m_Limit.m_Max.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[0].m_Limit.m_Max.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[0].m_Limit.m_Value.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[0].m_Limit.m_Value.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[0].m_Limit.m_Value.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[0].m_Limit.m_Length
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[0].m_Limit.m_Modified
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[1].m_BoneName
+    value: thigh.L
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[1].m_HumanName
+    value: LeftUpperLeg
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[1].m_Limit.m_Min.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[1].m_Limit.m_Min.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[1].m_Limit.m_Min.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[1].m_Limit.m_Max.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[1].m_Limit.m_Max.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[1].m_Limit.m_Max.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[1].m_Limit.m_Value.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[1].m_Limit.m_Value.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[1].m_Limit.m_Value.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[1].m_Limit.m_Length
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[1].m_Limit.m_Modified
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[2].m_BoneName
+    value: thigh.R
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[2].m_HumanName
+    value: RightUpperLeg
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[2].m_Limit.m_Min.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[2].m_Limit.m_Min.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[2].m_Limit.m_Min.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[2].m_Limit.m_Max.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[2].m_Limit.m_Max.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[2].m_Limit.m_Max.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[2].m_Limit.m_Value.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[2].m_Limit.m_Value.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[2].m_Limit.m_Value.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[2].m_Limit.m_Length
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[2].m_Limit.m_Modified
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[3].m_BoneName
+    value: shin.L
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[3].m_HumanName
+    value: LeftLowerLeg
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[3].m_Limit.m_Min.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[3].m_Limit.m_Min.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[3].m_Limit.m_Min.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[3].m_Limit.m_Max.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[3].m_Limit.m_Max.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[3].m_Limit.m_Max.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[3].m_Limit.m_Value.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[3].m_Limit.m_Value.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[3].m_Limit.m_Value.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[3].m_Limit.m_Length
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[3].m_Limit.m_Modified
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[4].m_BoneName
+    value: shin.R
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[4].m_HumanName
+    value: RightLowerLeg
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[4].m_Limit.m_Min.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[4].m_Limit.m_Min.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[4].m_Limit.m_Min.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[4].m_Limit.m_Max.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[4].m_Limit.m_Max.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[4].m_Limit.m_Max.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[4].m_Limit.m_Value.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[4].m_Limit.m_Value.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[4].m_Limit.m_Value.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[4].m_Limit.m_Length
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[4].m_Limit.m_Modified
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[5].m_BoneName
+    value: foot.L
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[5].m_HumanName
+    value: LeftFoot
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[5].m_Limit.m_Min.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[5].m_Limit.m_Min.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[5].m_Limit.m_Min.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[5].m_Limit.m_Max.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[5].m_Limit.m_Max.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[5].m_Limit.m_Max.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[5].m_Limit.m_Value.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[5].m_Limit.m_Value.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[5].m_Limit.m_Value.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[5].m_Limit.m_Length
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[5].m_Limit.m_Modified
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[6].m_BoneName
+    value: foot.R
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[6].m_HumanName
+    value: RightFoot
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[6].m_Limit.m_Min.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[6].m_Limit.m_Min.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[6].m_Limit.m_Min.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[6].m_Limit.m_Max.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[6].m_Limit.m_Max.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[6].m_Limit.m_Max.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[6].m_Limit.m_Value.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[6].m_Limit.m_Value.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[6].m_Limit.m_Value.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[6].m_Limit.m_Length
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[6].m_Limit.m_Modified
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[7].m_BoneName
+    value: spine
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[7].m_HumanName
+    value: Spine
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[7].m_Limit.m_Min.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[7].m_Limit.m_Min.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[7].m_Limit.m_Min.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[7].m_Limit.m_Max.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[7].m_Limit.m_Max.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[7].m_Limit.m_Max.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[7].m_Limit.m_Value.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[7].m_Limit.m_Value.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[7].m_Limit.m_Value.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[7].m_Limit.m_Length
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[7].m_Limit.m_Modified
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[8].m_BoneName
+    value: spine.001
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[8].m_HumanName
+    value: Chest
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[8].m_Limit.m_Min.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[8].m_Limit.m_Min.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[8].m_Limit.m_Min.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[8].m_Limit.m_Max.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[8].m_Limit.m_Max.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[8].m_Limit.m_Max.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[8].m_Limit.m_Value.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[8].m_Limit.m_Value.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[8].m_Limit.m_Value.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[8].m_Limit.m_Length
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[8].m_Limit.m_Modified
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[9].m_BoneName
+    value: neck.001
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[9].m_HumanName
+    value: Neck
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[9].m_Limit.m_Min.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[9].m_Limit.m_Min.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[9].m_Limit.m_Min.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[9].m_Limit.m_Max.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[9].m_Limit.m_Max.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[9].m_Limit.m_Max.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[9].m_Limit.m_Value.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[9].m_Limit.m_Value.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[9].m_Limit.m_Value.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[9].m_Limit.m_Length
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[9].m_Limit.m_Modified
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[10].m_BoneName
+    value: neck.002
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[10].m_HumanName
+    value: Head
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[10].m_Limit.m_Min.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[10].m_Limit.m_Min.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[10].m_Limit.m_Min.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[10].m_Limit.m_Max.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[10].m_Limit.m_Max.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[10].m_Limit.m_Max.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[10].m_Limit.m_Value.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[10].m_Limit.m_Value.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[10].m_Limit.m_Value.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[10].m_Limit.m_Length
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[10].m_Limit.m_Modified
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[11].m_BoneName
+    value: shoulder.L
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[11].m_HumanName
+    value: LeftShoulder
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[11].m_Limit.m_Min.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[11].m_Limit.m_Min.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[11].m_Limit.m_Min.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[11].m_Limit.m_Max.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[11].m_Limit.m_Max.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[11].m_Limit.m_Max.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[11].m_Limit.m_Value.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[11].m_Limit.m_Value.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[11].m_Limit.m_Value.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[11].m_Limit.m_Length
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[11].m_Limit.m_Modified
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[12].m_BoneName
+    value: shoulder.R
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[12].m_HumanName
+    value: RightShoulder
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[12].m_Limit.m_Min.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[12].m_Limit.m_Min.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[12].m_Limit.m_Min.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[12].m_Limit.m_Max.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[12].m_Limit.m_Max.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[12].m_Limit.m_Max.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[12].m_Limit.m_Value.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[12].m_Limit.m_Value.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[12].m_Limit.m_Value.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[12].m_Limit.m_Length
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[12].m_Limit.m_Modified
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[13].m_BoneName
+    value: upper_arm.L
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[13].m_HumanName
+    value: LeftUpperArm
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[13].m_Limit.m_Min.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[13].m_Limit.m_Min.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[13].m_Limit.m_Min.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[13].m_Limit.m_Max.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[13].m_Limit.m_Max.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[13].m_Limit.m_Max.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[13].m_Limit.m_Value.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[13].m_Limit.m_Value.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[13].m_Limit.m_Value.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[13].m_Limit.m_Length
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[13].m_Limit.m_Modified
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[14].m_BoneName
+    value: upper_arm.R
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[14].m_HumanName
+    value: RightUpperArm
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[14].m_Limit.m_Min.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[14].m_Limit.m_Min.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[14].m_Limit.m_Min.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[14].m_Limit.m_Max.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[14].m_Limit.m_Max.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[14].m_Limit.m_Max.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[14].m_Limit.m_Value.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[14].m_Limit.m_Value.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[14].m_Limit.m_Value.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[14].m_Limit.m_Length
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[14].m_Limit.m_Modified
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[15].m_BoneName
+    value: forearm.L
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[15].m_HumanName
+    value: LeftLowerArm
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[15].m_Limit.m_Min.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[15].m_Limit.m_Min.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[15].m_Limit.m_Min.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[15].m_Limit.m_Max.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[15].m_Limit.m_Max.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[15].m_Limit.m_Max.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[15].m_Limit.m_Value.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[15].m_Limit.m_Value.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[15].m_Limit.m_Value.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[15].m_Limit.m_Length
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[15].m_Limit.m_Modified
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[16].m_BoneName
+    value: forearm.R
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[16].m_HumanName
+    value: RightLowerArm
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[16].m_Limit.m_Min.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[16].m_Limit.m_Min.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[16].m_Limit.m_Min.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[16].m_Limit.m_Max.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[16].m_Limit.m_Max.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[16].m_Limit.m_Max.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[16].m_Limit.m_Value.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[16].m_Limit.m_Value.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[16].m_Limit.m_Value.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[16].m_Limit.m_Length
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[16].m_Limit.m_Modified
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[17].m_BoneName
+    value: hand.L
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[17].m_HumanName
+    value: LeftHand
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[17].m_Limit.m_Min.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[17].m_Limit.m_Min.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[17].m_Limit.m_Min.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[17].m_Limit.m_Max.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[17].m_Limit.m_Max.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[17].m_Limit.m_Max.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[17].m_Limit.m_Value.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[17].m_Limit.m_Value.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[17].m_Limit.m_Value.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[17].m_Limit.m_Length
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[17].m_Limit.m_Modified
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[18].m_BoneName
+    value: hand.R
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[18].m_HumanName
+    value: RightHand
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[18].m_Limit.m_Min.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[18].m_Limit.m_Min.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[18].m_Limit.m_Min.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[18].m_Limit.m_Max.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[18].m_Limit.m_Max.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[18].m_Limit.m_Max.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[18].m_Limit.m_Value.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[18].m_Limit.m_Value.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[18].m_Limit.m_Value.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[18].m_Limit.m_Length
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[18].m_Limit.m_Modified
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[19].m_BoneName
+    value: toe.L
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[19].m_HumanName
+    value: LeftToes
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[19].m_Limit.m_Min.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[19].m_Limit.m_Min.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[19].m_Limit.m_Min.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[19].m_Limit.m_Max.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[19].m_Limit.m_Max.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[19].m_Limit.m_Max.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[19].m_Limit.m_Value.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[19].m_Limit.m_Value.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[19].m_Limit.m_Value.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[19].m_Limit.m_Length
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[19].m_Limit.m_Modified
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[20].m_BoneName
+    value: toe.R
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[20].m_HumanName
+    value: RightToes
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[20].m_Limit.m_Min.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[20].m_Limit.m_Min.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[20].m_Limit.m_Min.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[20].m_Limit.m_Max.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[20].m_Limit.m_Max.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[20].m_Limit.m_Max.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[20].m_Limit.m_Value.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[20].m_Limit.m_Value.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[20].m_Limit.m_Value.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[20].m_Limit.m_Length
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[20].m_Limit.m_Modified
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[21].m_BoneName
+    value: Head
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[21].m_HumanName
+    value: RightEye
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[21].m_Limit.m_Min.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[21].m_Limit.m_Min.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[21].m_Limit.m_Min.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[21].m_Limit.m_Max.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[21].m_Limit.m_Max.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[21].m_Limit.m_Max.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[21].m_Limit.m_Value.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[21].m_Limit.m_Value.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[21].m_Limit.m_Value.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[21].m_Limit.m_Length
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[21].m_Limit.m_Modified
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[22].m_BoneName
+    value: spine.002
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[22].m_HumanName
+    value: UpperChest
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[22].m_Limit.m_Min.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[22].m_Limit.m_Min.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[22].m_Limit.m_Min.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[22].m_Limit.m_Max.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[22].m_Limit.m_Max.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[22].m_Limit.m_Max.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[22].m_Limit.m_Value.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[22].m_Limit.m_Value.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[22].m_Limit.m_Value.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[22].m_Limit.m_Length
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Human.Array.data[22].m_Limit.m_Modified
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.size
+    value: 43
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[0].m_Name
+    value: MainRig_Normalgon(Clone)
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[0].m_ParentName
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[0].m_Position.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[0].m_Position.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[0].m_Position.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[0].m_Rotation.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[0].m_Rotation.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[0].m_Rotation.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[0].m_Rotation.w
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[0].m_Scale.x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[0].m_Scale.y
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[0].m_Scale.z
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[1].m_Name
+    value: MainRig_Normalgon
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[1].m_ParentName
+    value: MainRig_Normalgon(Clone)
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[1].m_Position.x
+    value: -0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[1].m_Position.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[1].m_Position.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[1].m_Rotation.x
+    value: -4.3297806e-17
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[1].m_Rotation.y
+    value: 0.7071068
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[1].m_Rotation.z
+    value: 0.7071068
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[1].m_Rotation.w
+    value: -4.3297806e-17
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[1].m_Scale.x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[1].m_Scale.y
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[1].m_Scale.z
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[2].m_Name
+    value: Hips
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[2].m_ParentName
+    value: MainRig_Normalgon
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[2].m_Position.x
+    value: -0.000000004218496
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[2].m_Position.y
+    value: -0.015744742
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[2].m_Position.z
+    value: 0.79351205
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[2].m_Rotation.x
+    value: -0.00000006004877
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[2].m_Rotation.y
+    value: -0.7904555
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[2].m_Rotation.z
+    value: -0.61251956
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[2].m_Rotation.w
+    value: -0.000000059677724
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[2].m_Scale.x
+    value: 0.9999998
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[2].m_Scale.y
+    value: 0.9999997
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[2].m_Scale.z
+    value: 0.9999999
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[3].m_Name
+    value: spine
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[3].m_ParentName
+    value: Hips
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[3].m_Position.x
+    value: -1.7763568e-15
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[3].m_Position.y
+    value: 0.13306503
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[3].m_Position.z
+    value: -0.000000009313226
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[3].m_Rotation.x
+    value: -0.090758465
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[3].m_Rotation.y
+    value: 0.000000006831768
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[3].m_Rotation.z
+    value: 0.000000006933244
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[3].m_Rotation.w
+    value: 0.995873
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[3].m_Scale.x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[3].m_Scale.y
+    value: 0.99999994
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[3].m_Scale.z
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[4].m_Name
+    value: spine.001
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[4].m_ParentName
+    value: spine
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[4].m_Position.x
+    value: 4.9960036e-16
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[4].m_Position.y
+    value: 0.20836352
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[4].m_Position.z
+    value: -6.938894e-18
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[4].m_Rotation.x
+    value: -0.05115712
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[4].m_Rotation.y
+    value: 0.0000000043872617
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[4].m_Rotation.z
+    value: 0.0000000033323366
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[4].m_Rotation.w
+    value: 0.99869066
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[4].m_Scale.x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[4].m_Scale.y
+    value: 0.9999998
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[4].m_Scale.z
+    value: 1.0000001
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[5].m_Name
+    value: spine.002
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[5].m_ParentName
+    value: spine.001
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[5].m_Position.x
+    value: -5.551115e-16
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[5].m_Position.y
+    value: 0.15113245
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[5].m_Position.z
+    value: -0.0000000055879354
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[5].m_Rotation.x
+    value: -0.093070485
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[5].m_Rotation.y
+    value: -1.5949818e-10
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[5].m_Rotation.z
+    value: 0.000000013948789
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[5].m_Rotation.w
+    value: 0.9956596
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[5].m_Scale.x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[5].m_Scale.y
+    value: 0.9999998
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[5].m_Scale.z
+    value: 0.9999999
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[6].m_Name
+    value: neck.001
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[6].m_ParentName
+    value: spine.002
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[6].m_Position.x
+    value: 2.553513e-15
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[6].m_Position.y
+    value: 0.17236516
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[6].m_Position.z
+    value: -1.110223e-16
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[6].m_Rotation.x
+    value: 0.29357505
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[6].m_Rotation.y
+    value: -0.00000001629132
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[6].m_Rotation.z
+    value: -0.000000030520976
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[6].m_Rotation.w
+    value: 0.955936
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[6].m_Scale.x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[6].m_Scale.y
+    value: 1.0000005
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[6].m_Scale.z
+    value: 0.9999996
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[7].m_Name
+    value: neck.002
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[7].m_ParentName
+    value: neck.001
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[7].m_Position.x
+    value: 1.6764368e-14
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[7].m_Position.y
+    value: 0.05783784
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[7].m_Position.z
+    value: 0.000000019557774
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[7].m_Rotation.x
+    value: -0.09485773
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[7].m_Rotation.y
+    value: 0.0000000064776224
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[7].m_Rotation.z
+    value: 0.000000008074441
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[7].m_Rotation.w
+    value: 0.9954909
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[7].m_Scale.x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[7].m_Scale.y
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[7].m_Scale.z
+    value: 1.0000001
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[8].m_Name
+    value: Head
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[8].m_ParentName
+    value: neck.002
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[8].m_Position.x
+    value: -0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[8].m_Position.y
+    value: 0.05481135
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[8].m_Position.z
+    value: -0.0000000037252899
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[8].m_Rotation.x
+    value: -0.093712
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[8].m_Rotation.y
+    value: 0.000000007487746
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[8].m_Rotation.z
+    value: 0.0000000066623485
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[8].m_Rotation.w
+    value: 0.9955993
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[8].m_Scale.x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[8].m_Scale.y
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[8].m_Scale.z
+    value: 0.99999994
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[9].m_Name
+    value: Head_end
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[9].m_ParentName
+    value: Head
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[9].m_Position.x
+    value: -0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[9].m_Position.y
+    value: 0.28209484
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[9].m_Position.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[9].m_Rotation.x
+    value: 0.000000053385072
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[9].m_Rotation.y
+    value: 0.7071068
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[9].m_Rotation.z
+    value: 0.70710677
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[9].m_Rotation.w
+    value: -0.00000005338508
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[9].m_Scale.x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[9].m_Scale.y
+    value: 1.0000001
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[9].m_Scale.z
+    value: 0.99999994
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[10].m_Name
+    value: shoulder.L
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[10].m_ParentName
+    value: spine.002
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[10].m_Position.x
+    value: -0.015997242
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[10].m_Position.y
+    value: 0.11703999
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[10].m_Position.z
+    value: 0.035080265
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[10].m_Rotation.x
+    value: -0.47840583
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[10].m_Rotation.y
+    value: 0.40371656
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[10].m_Rotation.z
+    value: 0.50321
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[10].m_Rotation.w
+    value: 0.59575206
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[10].m_Scale.x
+    value: 0.99999964
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[10].m_Scale.y
+    value: 1.0000001
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[10].m_Scale.z
+    value: 1.0000002
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[11].m_Name
+    value: upper_arm.L
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[11].m_ParentName
+    value: shoulder.L
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[11].m_Position.x
+    value: -0.0073407185
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[11].m_Position.y
+    value: 0.20461062
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[11].m_Position.z
+    value: -0.017823687
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[11].m_Rotation.x
+    value: 0.04399711
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[11].m_Rotation.y
+    value: -0.68685883
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[11].m_Rotation.z
+    value: 0.07249644
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[11].m_Rotation.w
+    value: 0.7218266
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[11].m_Scale.x
+    value: 1.0000006
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[11].m_Scale.y
+    value: 1.0000011
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[11].m_Scale.z
+    value: 1.0000001
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[12].m_Name
+    value: forearm.L
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[12].m_ParentName
+    value: upper_arm.L
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[12].m_Position.x
+    value: 0.000000005500624
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[12].m_Position.y
+    value: 0.24018553
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[12].m_Position.z
+    value: -0.000000012572855
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[12].m_Rotation.x
+    value: 0.035044644
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[12].m_Rotation.y
+    value: -0.069433585
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[12].m_Rotation.z
+    value: -0.020182729
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[12].m_Rotation.w
+    value: 0.99676657
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[12].m_Scale.x
+    value: 1.0000007
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[12].m_Scale.y
+    value: 1.0000002
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[12].m_Scale.z
+    value: 1.0000001
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[13].m_Name
+    value: hand.L
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[13].m_ParentName
+    value: forearm.L
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[13].m_Position.x
+    value: -0.000000030500814
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[13].m_Position.y
+    value: 0.24661352
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[13].m_Position.z
+    value: -0.000000014901161
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[13].m_Rotation.x
+    value: -0.007221564
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[13].m_Rotation.y
+    value: 0.067310914
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[13].m_Rotation.z
+    value: 0.07840909
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[13].m_Rotation.w
+    value: 0.99462014
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[13].m_Scale.x
+    value: 0.9999996
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[13].m_Scale.y
+    value: 0.9999998
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[13].m_Scale.z
+    value: 1.0000002
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[14].m_Name
+    value: hand.L_end
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[14].m_ParentName
+    value: hand.L
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[14].m_Position.x
+    value: -0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[14].m_Position.y
+    value: 0.17550431
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[14].m_Position.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[14].m_Rotation.x
+    value: 0.5933689
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[14].m_Rotation.y
+    value: 0.11260125
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[14].m_Rotation.z
+    value: 0.06489382
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[14].m_Rotation.w
+    value: 0.7943696
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[14].m_Scale.x
+    value: 1.0000001
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[14].m_Scale.y
+    value: 1.0000012
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[14].m_Scale.z
+    value: 0.99999905
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[15].m_Name
+    value: shoulder.R
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[15].m_ParentName
+    value: spine.002
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[15].m_Position.x
+    value: 0.01599725
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[15].m_Position.y
+    value: 0.11703999
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[15].m_Position.z
+    value: 0.035080254
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[15].m_Rotation.x
+    value: -0.4784059
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[15].m_Rotation.y
+    value: -0.40371647
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[15].m_Rotation.z
+    value: -0.50320995
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[15].m_Rotation.w
+    value: 0.5957522
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[15].m_Scale.x
+    value: 0.99999964
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[15].m_Scale.y
+    value: 0.9999999
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[15].m_Scale.z
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[16].m_Name
+    value: upper_arm.R
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[16].m_ParentName
+    value: shoulder.R
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[16].m_Position.x
+    value: 0.007340709
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[16].m_Position.y
+    value: 0.20461063
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[16].m_Position.z
+    value: -0.017823571
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[16].m_Rotation.x
+    value: -0.043997318
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[16].m_Rotation.y
+    value: -0.6868588
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[16].m_Rotation.z
+    value: 0.07249668
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[16].m_Rotation.w
+    value: -0.7218265
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[16].m_Scale.x
+    value: 1.0000005
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[16].m_Scale.y
+    value: 1.0000007
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[16].m_Scale.z
+    value: 1.0000004
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[17].m_Name
+    value: forearm.R
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[17].m_ParentName
+    value: upper_arm.R
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[17].m_Position.x
+    value: -0.00000003585592
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[17].m_Position.y
+    value: 0.24018559
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[17].m_Position.z
+    value: 0.000000007450581
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[17].m_Rotation.x
+    value: 0.035044163
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[17].m_Rotation.y
+    value: 0.069433875
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[17].m_Rotation.z
+    value: 0.020182684
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[17].m_Rotation.w
+    value: 0.9967665
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[17].m_Scale.x
+    value: 1.0000012
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[17].m_Scale.y
+    value: 1.0000008
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[17].m_Scale.z
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[18].m_Name
+    value: hand.R
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[18].m_ParentName
+    value: forearm.R
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[18].m_Position.x
+    value: 0.000000033527613
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[18].m_Position.y
+    value: 0.24661344
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[18].m_Position.z
+    value: 0.000000022351742
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[18].m_Rotation.x
+    value: -0.007221442
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[18].m_Rotation.y
+    value: -0.06731115
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[18].m_Rotation.z
+    value: -0.078410305
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[18].m_Rotation.w
+    value: 0.99462
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[18].m_Scale.x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[18].m_Scale.y
+    value: 0.99999994
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[18].m_Scale.z
+    value: 1.0000002
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[19].m_Name
+    value: hand.R_end
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[19].m_ParentName
+    value: hand.R
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[19].m_Position.x
+    value: -0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[19].m_Position.y
+    value: 0.17550431
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[19].m_Position.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[19].m_Rotation.x
+    value: 0.5933688
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[19].m_Rotation.y
+    value: -0.1126013
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[19].m_Rotation.z
+    value: -0.06489378
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[19].m_Rotation.w
+    value: 0.79436964
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[19].m_Scale.x
+    value: 1.0000004
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[19].m_Scale.y
+    value: 1.0000013
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[19].m_Scale.z
+    value: 0.99999887
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[20].m_Name
+    value: breast.L
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[20].m_ParentName
+    value: spine.002
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[20].m_Position.x
+    value: -0.1276386
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[20].m_Position.y
+    value: 0.0008528146
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[20].m_Position.z
+    value: -0.07125402
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[20].m_Rotation.x
+    value: 0.000000038944485
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[20].m_Rotation.y
+    value: 0.62589914
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[20].m_Rotation.z
+    value: 0.77990395
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[20].m_Rotation.w
+    value: -0.000000047254066
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[20].m_Scale.x
+    value: 1.0000007
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[20].m_Scale.y
+    value: 0.99999976
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[20].m_Scale.z
+    value: 1.0000004
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[21].m_Name
+    value: breast.L_end
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[21].m_ParentName
+    value: breast.L
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[21].m_Position.x
+    value: -0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[21].m_Position.y
+    value: 0.12168394
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[21].m_Position.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[21].m_Rotation.x
+    value: 0.000000029802317
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[21].m_Rotation.y
+    value: -0.000000014029373
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[21].m_Rotation.z
+    value: 0.000000011259015
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[21].m_Rotation.w
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[21].m_Scale.x
+    value: 1.0000002
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[21].m_Scale.y
+    value: 1.0000002
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[21].m_Scale.z
+    value: 1.0000001
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[22].m_Name
+    value: breast.R
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[22].m_ParentName
+    value: spine.002
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[22].m_Position.x
+    value: 0.1276386
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[22].m_Position.y
+    value: 0.00085281703
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[22].m_Position.z
+    value: -0.07125407
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[22].m_Rotation.x
+    value: 0.000000038944485
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[22].m_Rotation.y
+    value: 0.62589914
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[22].m_Rotation.z
+    value: 0.77990395
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[22].m_Rotation.w
+    value: -0.000000047254066
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[22].m_Scale.x
+    value: 1.0000007
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[22].m_Scale.y
+    value: 0.99999976
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[22].m_Scale.z
+    value: 1.0000004
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[23].m_Name
+    value: breast.R_end
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[23].m_ParentName
+    value: breast.R
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[23].m_Position.x
+    value: -0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[23].m_Position.y
+    value: 0.12168394
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[23].m_Position.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[23].m_Rotation.x
+    value: 0.000000029802317
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[23].m_Rotation.y
+    value: -0.000000014029373
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[23].m_Rotation.z
+    value: 0.000000011259015
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[23].m_Rotation.w
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[23].m_Scale.x
+    value: 1.0000002
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[23].m_Scale.y
+    value: 1.0000002
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[23].m_Scale.z
+    value: 1.0000001
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[24].m_Name
+    value: pelvis.L
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[24].m_ParentName
+    value: Hips
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[24].m_Position.x
+    value: -8.881784e-16
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[24].m_Position.y
+    value: -0.00000006193295
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[24].m_Position.z
+    value: -0.0000000055879363
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[24].m_Rotation.x
+    value: -0.17689233
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[24].m_Rotation.y
+    value: 0.7835944
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[24].m_Rotation.z
+    value: 0.29786557
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[24].m_Rotation.w
+    value: 0.51571804
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[24].m_Scale.x
+    value: 1.0000004
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[24].m_Scale.y
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[24].m_Scale.z
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[25].m_Name
+    value: pelvis.L_end
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[25].m_ParentName
+    value: pelvis.L
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[25].m_Position.x
+    value: -0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[25].m_Position.y
+    value: 0.18852663
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[25].m_Position.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[25].m_Rotation.x
+    value: -0.24451733
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[25].m_Rotation.y
+    value: 0.29930222
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[25].m_Rotation.z
+    value: 0.4557129
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[25].m_Rotation.w
+    value: 0.8018449
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[25].m_Scale.x
+    value: 1.0000004
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[25].m_Scale.y
+    value: 0.9999995
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[25].m_Scale.z
+    value: 1.0000005
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[26].m_Name
+    value: pelvis.R
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[26].m_ParentName
+    value: Hips
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[26].m_Position.x
+    value: -0.000000008436993
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[26].m_Position.y
+    value: -0.00000006193295
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[26].m_Position.z
+    value: -0.0000000055879346
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[26].m_Rotation.x
+    value: -0.17689247
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[26].m_Rotation.y
+    value: -0.78359425
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[26].m_Rotation.z
+    value: -0.29786566
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[26].m_Rotation.w
+    value: 0.5157181
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[26].m_Scale.x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[26].m_Scale.y
+    value: 0.99999976
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[26].m_Scale.z
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[27].m_Name
+    value: pelvis.R_end
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[27].m_ParentName
+    value: pelvis.R
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[27].m_Position.x
+    value: -0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[27].m_Position.y
+    value: 0.18852663
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[27].m_Position.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[27].m_Rotation.x
+    value: 0.2445172
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[27].m_Rotation.y
+    value: 0.29930213
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[27].m_Rotation.z
+    value: 0.45571294
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[27].m_Rotation.w
+    value: -0.801845
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[27].m_Scale.x
+    value: 1.0000004
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[27].m_Scale.y
+    value: 0.9999995
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[27].m_Scale.z
+    value: 1.0000004
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[28].m_Name
+    value: thigh.L
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[28].m_ParentName
+    value: Hips
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[28].m_Position.x
+    value: -0.1358883
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[28].m_Position.y
+    value: 0.061907038
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[28].m_Position.z
+    value: 0.022677863
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[28].m_Rotation.x
+    value: 0.9889523
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[28].m_Rotation.y
+    value: -0.02104293
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[28].m_Rotation.z
+    value: 0.0045936857
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[28].m_Rotation.w
+    value: 0.14666095
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[28].m_Scale.x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[28].m_Scale.y
+    value: 1.0000001
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[28].m_Scale.z
+    value: 1.0000006
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[29].m_Name
+    value: shin.L
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[29].m_ParentName
+    value: thigh.L
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[29].m_Position.x
+    value: 0.0000000016734703
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[29].m_Position.y
+    value: 0.37888077
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[29].m_Position.z
+    value: 9.895302e-10
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[29].m_Rotation.x
+    value: 0.030227058
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[29].m_Rotation.y
+    value: -0.0055596074
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[29].m_Rotation.z
+    value: 0.008268079
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[29].m_Rotation.w
+    value: 0.9994935
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[29].m_Scale.x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[29].m_Scale.y
+    value: 1.0000004
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[29].m_Scale.z
+    value: 1.0000001
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[30].m_Name
+    value: foot.L
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[30].m_ParentName
+    value: shin.L
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[30].m_Position.x
+    value: 0.000000010841177
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[30].m_Position.y
+    value: 0.39589322
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[30].m_Position.z
+    value: -0.0000000021536835
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[30].m_Rotation.x
+    value: -0.5616278
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[30].m_Rotation.y
+    value: 0.018847868
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[30].m_Rotation.z
+    value: -0.023212079
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[30].m_Rotation.w
+    value: 0.8268496
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[30].m_Scale.x
+    value: 1.0000001
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[30].m_Scale.y
+    value: 1.0000001
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[30].m_Scale.z
+    value: 1.0000007
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[31].m_Name
+    value: toe.L
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[31].m_ParentName
+    value: foot.L
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[31].m_Position.x
+    value: -0.00000001188355
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[31].m_Position.y
+    value: 0.16901171
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[31].m_Position.z
+    value: -0.000000010140305
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[31].m_Rotation.x
+    value: 0.00000008940696
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[31].m_Rotation.y
+    value: 0.9804541
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[31].m_Rotation.z
+    value: -0.19674838
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[31].m_Rotation.w
+    value: -0.0000000745058
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[31].m_Scale.x
+    value: 1.0000005
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[31].m_Scale.y
+    value: 1.0000005
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[31].m_Scale.z
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[32].m_Name
+    value: toe.L_end
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[32].m_ParentName
+    value: toe.L
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[32].m_Position.x
+    value: -0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[32].m_Position.y
+    value: 0.07208675
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[32].m_Position.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[32].m_Rotation.x
+    value: -0.00000010430812
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[32].m_Rotation.y
+    value: -0.0000002610024
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[32].m_Rotation.z
+    value: 0.000000001081524
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[32].m_Rotation.w
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[32].m_Scale.x
+    value: 1.0000005
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[32].m_Scale.y
+    value: 1.0000001
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[32].m_Scale.z
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[33].m_Name
+    value: heel.02.L
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[33].m_ParentName
+    value: foot.L
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[33].m_Position.x
+    value: 0.033218272
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[33].m_Position.y
+    value: -0.03624323
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[33].m_Position.z
+    value: 0.09588525
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[33].m_Rotation.x
+    value: -0.6932859
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[33].m_Rotation.y
+    value: 0.693286
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[33].m_Rotation.z
+    value: -0.13912088
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[33].m_Rotation.w
+    value: -0.13912061
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[33].m_Scale.x
+    value: 1.0000002
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[33].m_Scale.y
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[33].m_Scale.z
+    value: 1.0000001
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[34].m_Name
+    value: heel.02.L_end
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[34].m_ParentName
+    value: heel.02.L
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[34].m_Position.x
+    value: -0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[34].m_Position.y
+    value: 0.069933295
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[34].m_Position.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[34].m_Rotation.x
+    value: 0.0000013125573
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[34].m_Rotation.y
+    value: 0.0000013195063
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[34].m_Rotation.z
+    value: 0.70710677
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[34].m_Rotation.w
+    value: 0.7071068
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[34].m_Scale.x
+    value: 1.000001
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[34].m_Scale.y
+    value: 0.99999887
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[34].m_Scale.z
+    value: 0.99999994
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[35].m_Name
+    value: thigh.R
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[35].m_ParentName
+    value: Hips
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[35].m_Position.x
+    value: 0.1358883
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[35].m_Position.y
+    value: 0.06190697
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[35].m_Position.z
+    value: 0.022677833
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[35].m_Rotation.x
+    value: 0.9889523
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[35].m_Rotation.y
+    value: 0.021042941
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[35].m_Rotation.z
+    value: -0.0045933723
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[35].m_Rotation.w
+    value: 0.14666142
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[35].m_Scale.x
+    value: 0.9999999
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[35].m_Scale.y
+    value: 0.9999997
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[35].m_Scale.z
+    value: 0.99999666
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[36].m_Name
+    value: shin.R
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[36].m_ParentName
+    value: thigh.R
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[36].m_Position.x
+    value: -0.000000005806214
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[36].m_Position.y
+    value: 0.37888086
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[36].m_Position.z
+    value: 0.000000004773028
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[36].m_Rotation.x
+    value: 0.030227195
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[36].m_Rotation.y
+    value: 0.005559608
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[36].m_Rotation.z
+    value: -0.008268069
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[36].m_Rotation.w
+    value: 0.9994935
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[36].m_Scale.x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[36].m_Scale.y
+    value: 1.0000008
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[36].m_Scale.z
+    value: 1.0000005
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[37].m_Name
+    value: foot.R
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[37].m_ParentName
+    value: shin.R
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[37].m_Position.x
+    value: 0.0000000017607817
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[37].m_Position.y
+    value: 0.3958932
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[37].m_Position.z
+    value: -8.1490725e-10
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[37].m_Rotation.x
+    value: -0.5616276
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[37].m_Rotation.y
+    value: -0.018847903
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[37].m_Rotation.z
+    value: 0.023212073
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[37].m_Rotation.w
+    value: 0.8268497
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[37].m_Scale.x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[37].m_Scale.y
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[37].m_Scale.z
+    value: 1.0000008
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[38].m_Name
+    value: toe.R
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[38].m_ParentName
+    value: foot.R
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[38].m_Position.x
+    value: -0.000000002925005
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[38].m_Position.y
+    value: 0.16901223
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[38].m_Position.z
+    value: -0.000000006146152
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[38].m_Rotation.x
+    value: -0.00000009126958
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[38].m_Rotation.y
+    value: 0.9804541
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[38].m_Rotation.z
+    value: -0.19674815
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[38].m_Rotation.w
+    value: 0.000000073574455
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[38].m_Scale.x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[38].m_Scale.y
+    value: 1.0000007
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[38].m_Scale.z
+    value: 0.99999887
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[39].m_Name
+    value: toe.R_end
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[39].m_ParentName
+    value: toe.R
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[39].m_Position.x
+    value: -0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[39].m_Position.y
+    value: 0.07208675
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[39].m_Position.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[39].m_Rotation.x
+    value: 0.000000014901172
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[39].m_Rotation.y
+    value: 0.00000032941978
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[39].m_Rotation.z
+    value: 0.00000044873488
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[39].m_Rotation.w
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[39].m_Scale.x
+    value: 0.99999976
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[39].m_Scale.y
+    value: 0.9999998
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[39].m_Scale.z
+    value: 0.9999997
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[40].m_Name
+    value: heel.02.R
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[40].m_ParentName
+    value: foot.R
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[40].m_Position.x
+    value: -0.033218287
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[40].m_Position.y
+    value: -0.036243506
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[40].m_Position.z
+    value: 0.09588526
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[40].m_Rotation.x
+    value: -0.6932865
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[40].m_Rotation.y
+    value: -0.69328547
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[40].m_Rotation.z
+    value: 0.13912061
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[40].m_Rotation.w
+    value: -0.13912052
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[40].m_Scale.x
+    value: 1.0000008
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[40].m_Scale.y
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[40].m_Scale.z
+    value: 0.9999991
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[41].m_Name
+    value: heel.02.R_end
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[41].m_ParentName
+    value: heel.02.R
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[41].m_Position.x
+    value: -0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[41].m_Position.y
+    value: 0.069933295
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[41].m_Position.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[41].m_Rotation.x
+    value: -0.0000014358272
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[41].m_Rotation.y
+    value: 0.0000013933156
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[41].m_Rotation.z
+    value: 0.70710707
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[41].m_Rotation.w
+    value: -0.7071066
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[41].m_Scale.x
+    value: 0.9999984
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[41].m_Scale.y
+    value: 1.0000017
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[41].m_Scale.z
+    value: 1.0000002
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[42].m_Name
+    value: BaseRig
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[42].m_ParentName
+    value: MainRig_Normalgon(Clone)
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[42].m_Position.x
+    value: -0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[42].m_Position.y
+    value: 1.0923666
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[42].m_Position.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[42].m_Rotation.x
+    value: -4.3297806e-17
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[42].m_Rotation.y
+    value: 0.7071068
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[42].m_Rotation.z
+    value: 0.7071068
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[42].m_Rotation.w
+    value: -4.3297806e-17
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[42].m_Scale.x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[42].m_Scale.y
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_Skeleton.Array.data[42].m_Scale.z
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_ArmTwist
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_ForeArmTwist
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_UpperLegTwist
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_LegTwist
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_ArmStretch
+    value: 0.05
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_LegStretch
+    value: 0.05
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_FeetSpacing
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_GlobalScale
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_RootMotionBoneName
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_HasTranslationDoF
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_HasExtraRoot
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanDescription.m_SkeletonHasParents
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LastHumanDescriptionAvatarSource
+    value: 
+    objectReference: {fileID: 9000000, guid: 69d14ae65e70026438643ed7993dee1e, type: 3}
+  - target: {fileID: 0}
+    propertyPath: m_AutoGenerateAvatarMappingIfUnspecified
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimationType
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_HumanoidOversampling
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AvatarSetup
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AddHumanoidExtraRootOnlyWhenUsingAvatar
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_ImportBlendShapeDeformPercent
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_RemapMaterialsIfMaterialImportModeIsNone
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AdditionalBone
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_UserData
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AssetBundleName
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AssetBundleVariant
+    value: 
+    objectReference: {fileID: 0}
+  m_ExcludedProperties: []
