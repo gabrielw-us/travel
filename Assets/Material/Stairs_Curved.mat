@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Pavement 1
+  m_Name: Stairs_Curved
   m_Shader: {fileID: -6465566751694194690, guid: b2c58a39b59af42b081d22622f1969e6, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0

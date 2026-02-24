@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Window_n_Balcony
+  m_Name: Roof
   m_Shader: {fileID: -6465566751694194690, guid: b2c58a39b59af42b081d22622f1969e6, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -142,24 +142,28 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     - _ReceiveShadows: 1
+    - _Smoothing: 1
     - _Smoothness: 0
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _SrcBlendAlpha: 1
-    - _StrokeBlendingNoiseScale: 100
-    - _StrokeBlendingNoiseStrength: 0.11
-    - _StrokeRandomness: 0
-    - _StrokeScale: 1.12
+    - _Strength: 0
+    - _StrokeBlendingNoiseScale: 5
+    - _StrokeBlendingNoiseStrength: 0.5
+    - _StrokeRandomness: 1.9
+    - _StrokeScale: 1.03
     - _Surface: 0
     - _UseBlendingNoise: 1
     - _UserVertexColor: 1
-    - _Variation: 0.583
+    - _Variation: 1
+    - _Variation_1: 200
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Directional_Strength: {r: 1, g: 1, b: 1, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
     - _VariationColorA: {r: 1, g: 0.90478736, b: 0.72264147, a: 0}
