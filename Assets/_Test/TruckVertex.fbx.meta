@@ -1,14 +1,9 @@
 fileFormatVersion: 2
-guid: 61a972fef41f1054d8c7daa01e58f230
+guid: a4bbcf0b6b1d05343953e2d903ffb91f
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
   externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Black
-    second: {fileID: 2100000, guid: 2594e42adc13a7747b10c5f4c5992c74, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -27,26 +22,6 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: CarTopper
-    second: {fileID: 2100000, guid: 1ef9e2a9fc043dc418eda20913bd07ca, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Cloth_Yellow
-    second: {fileID: 2100000, guid: 7d0a4dfb80916a7419ffb1cc66d0ce83, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: GlassPane
-    second: {fileID: 2100000, guid: 24e45c063159c6346b9474450487cb1e, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Green_Truck
-    second: {fileID: 2100000, guid: 8020b680936e96d47a0af7066a045d0a, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
       name: Grey Yellow 1
     second: {fileID: 2100000, guid: 63ab34fab57c950418b353cbb581679d, type: 2}
   - first:
@@ -57,38 +32,13 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Light Orange
-    second: {fileID: 2100000, guid: f31da4db613016549b2a9a06de553440, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Metal_Dull
-    second: {fileID: 2100000, guid: b5a902ecaa35664478dfb0195faf36ff, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Metal_Lt_Dull
-    second: {fileID: 2100000, guid: ec22c3d9ea95971479e801c4edf98c1a, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
       name: Red Orange Vibrant
     second: {fileID: 2100000, guid: 1d86a77ff18260d4787e1af61daef62d, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Sacks
-    second: {fileID: 2100000, guid: 3d43fb5ba688c7d459276db67db0e194, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
       name: VertexColor
-    second: {fileID: 2100000, guid: 95672d531b9f7c649947c1e7dd4d5977, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: WhiteReflectiveLight
-    second: {fileID: 2100000, guid: 28defe5619916f54c9089e262e234c2a, type: 2}
+    second: {fileID: 2100000, guid: c7ff5e7d2266f494ab98c4be0ed14d9e, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
