@@ -43,7 +43,8 @@ Material:
     - _StrokeBlendingNoiseScale: 100
     - _StrokeBlendingNoiseStrength: 0.11
     - _StrokeRandomness: 0
-    - _StrokeScale: 1.12
+    - _StrokeScale: 2.89
+    - _UserVertexColor: 1
     - _Variation: 0.583
     m_Colors:
     - _VariationColorA: {r: 1, g: 0.90478736, b: 0.72264147, a: 0}
