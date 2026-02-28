@@ -134,6 +134,7 @@ Material:
     - _DstBlend: 0
     - _DstBlendAlpha: 0
     - _EnvironmentReflections: 1
+    - _Exposure: 1
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
@@ -146,6 +147,7 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: -6
     - _ReceiveShadows: 1
+    - _Shadow_Strength: 1
     - _Smoothing: 1
     - _Smoothness: 0
     - _SmoothnessTextureChannel: 0
@@ -160,17 +162,17 @@ Material:
     - _Surface: 0
     - _UseBlendingNoise: 1
     - _UserVertexColor: 1
-    - _Variation: 0.59
+    - _Variation: 0.912
     - _Variation_1: 200
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
-    - _BaseColor: {r: 1, g: 0.8846518, b: 0.48113203, a: 1}
+    - _BaseColor: {r: 0.78867924, g: 0.61540884, b: 0, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _Directional_Strength: {r: 1, g: 1, b: 1, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
-    - _VariationColorA: {r: 1, g: 0.64090616, b: 0.6320754, a: 0}
-    - _VariationColorB: {r: 0.24480599, g: 0.5924529, b: 0.48622495, a: 0}
+    - _VariationColorA: {r: 0.5999999, g: 0.50443894, b: 0.44716972, a: 0}
+    - _VariationColorB: {r: 0.48625842, g: 0.5471698, b: 0.52834266, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1

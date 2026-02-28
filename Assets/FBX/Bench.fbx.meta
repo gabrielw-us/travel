@@ -38,7 +38,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: VertexColor
-    second: {fileID: 2100000, guid: f1036896bf061df4a85d328df334983c, type: 2}
+    second: {fileID: 2100000, guid: 48ca8146dff614a4a91d26a03d9d4756, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule

@@ -145,7 +145,7 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
-    - _Choose_a_Color: {r: 0.47097903, g: 0.7283019, b: 0.19100742, a: 0}
+    - _Choose_a_Color: {r: 0.37354878, g: 0.5320754, b: 0.1997792, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
