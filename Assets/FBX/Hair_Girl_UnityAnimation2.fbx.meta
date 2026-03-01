@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: d37b21055f618e14a880e77ceb0a30ab
+guid: 5079b6e4ad4ca6e4d9ef629d9906b62d
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -22,6 +22,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Girl
+    second: {fileID: 2100000, guid: c384c6a407f29a5479cee5e70a17465b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Grey Yellow 1
     second: {fileID: 2100000, guid: 63ab34fab57c950418b353cbb581679d, type: 2}
   - first:
@@ -38,7 +43,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: VertexColor
-    second: {fileID: 2100000, guid: 23e23470b38874842aee2ff5901b40ce, type: 2}
+    second: {fileID: 2100000, guid: c7ff5e7d2266f494ab98c4be0ed14d9e, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
